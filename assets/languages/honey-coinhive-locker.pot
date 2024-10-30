@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Honey Coinhive Locker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-13 02:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#. Description of the plugin
+msgid "Add coinhive content locker into posts and pages."
+msgstr ""
+
+#: honey_locker.php:86
+msgid "API Settings"
+msgstr ""
+
+#: honey_locker.php:101
+msgid "Bootstrap Button"
+msgstr ""
+
+#: honey_locker.php:137
+msgid "Coinhive API Settings are not set."
+msgstr ""
+
+#: honey_locker.php:83
+msgid "Coinhive Content Locker"
+msgstr ""
+
+#: honey_locker.php:98
+msgid "Color"
+msgstr ""
+
+#: honey_locker.php:95
+msgid "Default Hashes"
+msgstr ""
+
+#: honey_locker.php:351
+msgid "Every 3 Minutes"
+msgstr ""
+
+#: honey_locker.php:93
+msgid "Get your Site Key and Secret Key from"
+msgstr ""
+
+#. Name of the plugin
+msgid "Honey Coinhive Locker"
+msgstr ""
+
+#. Author of the plugin
+msgid "Honey Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://honeyplugins.com"
+msgstr ""
+
+#: honey_locker.php:94
+msgid "Locker Settings"
+msgstr ""
+
+#: honey_locker.php:266
+msgid "Please verify first"
+msgstr ""
+
+#: honey_locker.php:90
+msgid "Secret Key"
+msgstr ""
+
+#: honey_locker.php:112
+msgid "Settings"
+msgstr ""
+
+#: honey_locker.php:87
+msgid "Site Key"
+msgstr ""
+
+#: honey_locker.php:153 honey_locker.php:155
+msgid "Unlock"
+msgstr ""
+
+#: honey_locker.php:265
+msgid "Verifying..."
+msgstr ""

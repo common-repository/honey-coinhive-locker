@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Honey Coinhive Locker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-13 02:52+0000\n"
+"PO-Revision-Date: 2019-02-13 02:55+0000\n"
+"Last-Translator: Wordpress <darrenwestwood86@yahoo.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#. Description of the plugin
+msgid "Add coinhive content locker into posts and pages."
+msgstr "Add coinhive content locker into posts and pages."
+
+#: honey_locker.php:86
+msgid "API Settings"
+msgstr "API Settings"
+
+#: honey_locker.php:101
+msgid "Bootstrap Button"
+msgstr "Bootstrap Button"
+
+#: honey_locker.php:137
+msgid "Coinhive API Settings are not set."
+msgstr "Coinhive API Settings are not set."
+
+#: honey_locker.php:83
+msgid "Coinhive Content Locker"
+msgstr "Coinhive Content Locker"
+
+#: honey_locker.php:98
+msgid "Color"
+msgstr "Color"
+
+#: honey_locker.php:95
+msgid "Default Hashes"
+msgstr "Default Hashes"
+
+#: honey_locker.php:351
+msgid "Every 3 Minutes"
+msgstr "Every 3 Minutes"
+
+#: honey_locker.php:93
+msgid "Get your Site Key and Secret Key from"
+msgstr "Get your Site Key and Secret Key from"
+
+#. Name of the plugin
+msgid "Honey Coinhive Locker"
+msgstr "Honey Coinhive Locker"
+
+#. Author of the plugin
+msgid "Honey Plugins"
+msgstr "Honey Plugins"
+
+#. Author URI of the plugin
+msgid "http://honeyplugins.com"
+msgstr "http://honeyplugins.com"
+
+#: honey_locker.php:94
+msgid "Locker Settings"
+msgstr "Locker Settings"
+
+#: honey_locker.php:266
+msgid "Please verify first"
+msgstr "Please verify first"
+
+#: honey_locker.php:90
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: honey_locker.php:112
+msgid "Settings"
+msgstr "Settings"
+
+#: honey_locker.php:87
+msgid "Site Key"
+msgstr "Site Key"
+
+#: honey_locker.php:153 honey_locker.php:155
+msgid "Unlock"
+msgstr "Unlock"
+
+#: honey_locker.php:265
+msgid "Verifying..."
+msgstr "Verifying..."
